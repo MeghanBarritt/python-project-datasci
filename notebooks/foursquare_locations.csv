@@ -1,0 +1,571 @@
+,fsq_id,station_num,distance,name,location_address,categorized,closed_bucket
+0,50ca5592e4b0cc5bad7c6449,1,557,The Sunflower,65 Union St,Bar,Unsure
+1,520080a3498eb97026f147b8,1,811,Established Coffee,54 Hill St,Coffee Shop,Unsure
+2,4b64a08bf964a52082c32ae3,1,920,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+3,5a1fedbcbcbf7a12b589f1f9,1,952,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+4,4b06f46df964a5201af422e3,1,907,Black Box,18-22 Hill St,Concert Hall,Unsure
+5,4bd352d741b9ef3b0fe3ffe5,1,985,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+6,4c1669aea5eb76b040ccc4b7,1,809,The John Hewitt,51 Donegall St,Restaurant,VeryLikelyOpen
+7,52988e8511d22448bd236206,1,950,The Dirty Onion,3 Hill St,Bar,Unsure
+8,50b0e62be4b0441cd92ec4f3,1,388,Crumlin Road Gaol,53-55 Crumlin Rd,Museum,VeryLikelyOpen
+9,4bb897143db7b7135e65219a,1,988,The Spaniard,3 Skipper St,Bar,LikelyOpen
+10,5ae825e4ad910e002c72a002,2,72,Tim Hortons,65 Fountain St,Coffee Shop,VeryLikelyOpen
+11,4fc21ef5e4b099ce175faf24,2,126,Home Restaurant,22 Wellington Pl,Restaurant,Unsure
+12,4bb3c394715eef3b6bce86bb,2,273,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+13,4b459b93f964a5207d0e26e3,2,468,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+14,4b071106f964a52093f622e3,2,471,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+15,5a1fedbcbcbf7a12b589f1f9,2,539,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+16,4b64a08bf964a52082c32ae3,2,284,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+17,4bd352d741b9ef3b0fe3ffe5,2,351,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+18,4c4647bd342c1b8d3040b689,2,357,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+19,5a37b9bd16fa04126cd4ccd7,2,212,Oh Donuts & Coffee,55 Upper Arthur St,Restaurant,VeryLikelyOpen
+20,4b65d319f964a5203a022be3,3,692,The Limelight,17 Ormeau Ave,Bar,LikelyOpen
+21,4b7554a1f964a520ac062ee3,3,203,Boojum,73 Botanic Ave,Restaurant,VeryLikelyOpen
+22,4b459b93f964a5207d0e26e3,3,593,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+23,504b9545e4b0b18004d43314,3,242,Steamboat Oriental Bbq,15 Donegall Pass,Restaurant,VeryLikelyOpen
+24,4c39a7270a71c9b6e7d642c9,3,171,Lee Garden,14-18 Botanic Ave,Restaurant,VeryLikelyOpen
+25,4bf0422df831c92849cd01f2,3,626,Ulster Museum,Botanic Gardens,Museum,VeryLikelyOpen
+26,56f3e2b5498e6346b7f91b31,3,243,Holohans Pantry,43 University Rd,Restaurant,VeryLikelyOpen
+27,4b7d734ff964a52022bf2fe3,3,764,Botanic Gardens,College Park,Bar,VeryLikelyOpen
+28,4c191a0c4ff90f475e6b0f49,3,254,Villa Italia,39-41 University St,Restaurant,VeryLikelyOpen
+29,545b434b498e9a85bdb35967,3,107,The Woodworkers,20-22 Bradbury Pl,Bar,VeryLikelyOpen
+30,545b434b498e9a85bdb35967,4,83,The Woodworkers,20-22 Bradbury Pl,Bar,VeryLikelyOpen
+31,4c39a7270a71c9b6e7d642c9,4,21,Lee Garden,14-18 Botanic Ave,Restaurant,VeryLikelyOpen
+32,4b459b93f964a5207d0e26e3,4,453,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+33,4bacb913f964a520e8063be3,4,439,Nando's,24 Ormeau Ave,Restaurant,VeryLikelyOpen
+34,504b9545e4b0b18004d43314,4,56,Steamboat Oriental Bbq,15 Donegall Pass,Restaurant,VeryLikelyOpen
+35,4b7554a1f964a520ac062ee3,4,231,Boojum,73 Botanic Ave,Restaurant,VeryLikelyOpen
+36,4c4647bd342c1b8d3040b689,4,592,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+37,4c191a0c4ff90f475e6b0f49,4,362,Villa Italia,39-41 University St,Restaurant,VeryLikelyOpen
+38,56f3e2b5498e6346b7f91b31,4,405,Holohans Pantry,43 University Rd,Restaurant,VeryLikelyOpen
+39,4b65d319f964a5203a022be3,4,506,The Limelight,17 Ormeau Ave,Bar,LikelyOpen
+40,5ae825e4ad910e002c72a002,5,285,Tim Hortons,65 Fountain St,Coffee Shop,VeryLikelyOpen
+41,4b459b93f964a5207d0e26e3,5,169,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+42,4b64a08bf964a52082c32ae3,5,536,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+43,57ac99ec498e2258ef0521d3,5,116,Boojum,14-16 Great Victoria St,Restaurant,Unsure
+44,4bacb913f964a520e8063be3,5,231,Nando's,24 Ormeau Ave,Restaurant,VeryLikelyOpen
+45,4fc21ef5e4b099ce175faf24,5,258,Home Restaurant,22 Wellington Pl,Restaurant,Unsure
+46,4b50a28ff964a520762a27e3,5,54,Fibber Magees,38-42 Great Victoria St,Bar,VeryLikelyOpen
+47,4c4647bd342c1b8d3040b689,5,75,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+48,4bdabe62c79cc928a48b7fe9,5,170,PizzaExpress,25-27 Bedford St,Restaurant,VeryLikelyOpen
+49,4b6031acf964a52060d929e3,5,114,Harlem Cafe,34 Bedford St,Coffee Shop,LikelyOpen
+50,514a517de4b0e876ff898ce4,6,824,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+51,4b65d319f964a5203a022be3,6,207,The Limelight,17 Ormeau Ave,Bar,LikelyOpen
+52,4bacb913f964a520e8063be3,6,377,Nando's,24 Ormeau Ave,Restaurant,VeryLikelyOpen
+53,5a37b9bd16fa04126cd4ccd7,6,517,Oh Donuts & Coffee,55 Upper Arthur St,Restaurant,VeryLikelyOpen
+54,4c489364c047be9aef423479,6,251,Zen,55-59 Adelaide St,Restaurant,LikelyOpen
+55,4b459b93f964a5207d0e26e3,6,563,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+56,4bb3c394715eef3b6bce86bb,6,580,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+57,4bdabe62c79cc928a48b7fe9,6,413,PizzaExpress,25-27 Bedford St,Restaurant,VeryLikelyOpen
+58,4c4647bd342c1b8d3040b689,6,623,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+59,4b6031acf964a52060d929e3,6,458,Harlem Cafe,34 Bedford St,Coffee Shop,LikelyOpen
+60,51a88d59498e93cab076354d,7,428,SS Nomadic,Queens Rd,Museum,VeryLikelyOpen
+61,504b867fe4b04977de57e845,7,631,Titanic Slipway,Queens Rd,Monument,VeryLikelyOpen
+62,4b588286f964a5204b5b28e3,7,566,Odyssey Arena,2 Queens Quay,Stadium,VeryLikelyOpen
+63,578ba22a498e14e13ba14b1b,7,555,Titanic Belfast,1 Olympic Way,Museum,LikelyOpen
+64,4efb9c6693ad9a2797faf7a2,7,255,Proni,Titanic Boulevard,City Hall,VeryLikelyOpen
+65,644055ec8831fc46af21271d,7,595,Nando’s,Missing data,Restaurant,Unsure
+66,51320349e4b06242f03795b5,7,325,Subway,"The Arc, Queens Rd",Restaurant,VeryLikelyOpen
+67,4d89ef067139b1f72342bfd4,7,579,W5,2 Queen's Quay,Museum,VeryLikelyOpen
+68,4cb46b5adb32f04d5671dd4d,7,557,Titanic Belfast,2 Queen's Quay,Museum,VeryLikelyOpen
+69,4f6090eee4b07ca95a464133,7,394,The Dock Cafe,2K Queens Rd,Coffee Shop,VeryLikelyOpen
+70,5b7d902abed483002c1dd6cd,8,78,Lazy Claire Patisserie,227 Castlereagh Rd,Coffee Shop,VeryLikelyOpen
+71,63066857f22c46ab6b78b690,8,89,Crystal House,251 Castlereagh Rd,Restaurant,LikelyOpen
+72,4d0e779a8010a1cd2080df7e,8,60,Ruby Star,229 Castlereagh Rd,Restaurant,VeryLikelyOpen
+73,5e36d78199874bf0cdc0cc54,8,123,Pizza Hut,215-225 Castlereagh Rd,Restaurant,LikelyOpen
+74,4c29da47d26eb713308214d1,8,117,The Bread Filler,255 Castlereagh Rd,Restaurant,LikelyOpen
+75,4c5ab857b05c1b8d5fd6d8b1,8,451,Subway,Cregagh Rd,Restaurant,LikelyOpen
+76,4f8bffa9e4b0b1c4b211eaec,8,407,Ritchies Chip Shop,Missing data,Restaurant,VeryLikelyOpen
+77,3ce36cf317de4b60c729bb42,8,59,Sandwich Fresh,255 Castlereagh Rd,Coffee Shop,LikelyOpen
+78,4c87c49d13e3b1f7fedbd346,8,250,Boston Chinese,Missing data,Restaurant,VeryLikelyOpen
+79,4ca38c47750ca09308e21967,8,687,Orangefield Playing Fields,Missing data,Park,VeryLikelyOpen
+80,591f03cf0d8a0f04db6c2cad,9,599,387 Ormeau Road,387 Ormeau Rd,Restaurant,VeryLikelyOpen
+81,53a810aa498ed84e5398d13a,9,521,Kaffe O,411 Ormeau Rd,Coffee Shop,VeryLikelyOpen
+82,5817638a38fa62c38f44588c,9,476,District,300 Ormeau Rd,Coffee Shop,VeryLikelyOpen
+83,4bc4abe34cdfc9b6fef69821,9,825,Kingspan Stadium,85 Ravenhill Park,Stadium,VeryLikelyOpen
+84,56fd1e27498e65b9eabf8efa,9,723,General Merchants,361 Ormeau Rd,Restaurant,VeryLikelyOpen
+85,4d14bf69cc216ea834555ed3,9,241,Cherryvale Playing Fields,Missing data,Park,VeryLikelyOpen
+86,511f7cc4e4b0d2f6118e4370,9,294,Shed,467 Ormeau Rd,Restaurant,VeryLikelyOpen
+87,5aa13b4031fd141238c92639,9,523,Bia Rebel,409 Ormeau Rd,Restaurant,VeryLikelyOpen
+88,4c06ca359e1ab7134be25243,9,407,Errigle Inn,312-320 Ormeau Rd,Restaurant,VeryLikelyOpen
+89,596657f469e77b6bd606825d,9,570,AL Gelato,397A Ormeau Rd,Coffee Shop,VeryLikelyOpen
+90,5ae825e4ad910e002c72a002,10,387,Tim Hortons,65 Fountain St,Coffee Shop,VeryLikelyOpen
+91,520080a3498eb97026f147b8,10,674,Established Coffee,54 Hill St,Coffee Shop,Unsure
+92,4fc21ef5e4b099ce175faf24,10,363,Home Restaurant,22 Wellington Pl,Restaurant,Unsure
+93,5a1fedbcbcbf7a12b589f1f9,10,653,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+94,4c4647bd342c1b8d3040b689,10,576,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+95,4c50130638b0be9a515ee3fc,10,394,Long's,39 Athol St,Restaurant,LikelyOpen
+96,50ca5592e4b0cc5bad7c6449,10,435,The Sunflower,65 Union St,Bar,Unsure
+97,4b64a08bf964a52082c32ae3,10,266,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+98,4c7594d3604a3704191e8349,10,136,Maddens Bar,74 Berry St,Bar,Unsure
+99,4bd352d741b9ef3b0fe3ffe5,10,502,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+100,4bb897143db7b7135e65219a,11,606,The Spaniard,3 Skipper St,Bar,LikelyOpen
+101,52988e8511d22448bd236206,11,568,The Dirty Onion,3 Hill St,Bar,Unsure
+102,520080a3498eb97026f147b8,11,432,Established Coffee,54 Hill St,Coffee Shop,Unsure
+103,4b64a08bf964a52082c32ae3,11,597,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+104,4c6fcdd4d274b60cca8cd70d,11,682,Bert's Jazz Bar,16 Skipper St,Bar,Unsure
+105,4bd352d741b9ef3b0fe3ffe5,11,615,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+106,4c1669aea5eb76b040ccc4b7,11,428,The John Hewitt,51 Donegall St,Restaurant,VeryLikelyOpen
+107,5a1fedbcbcbf7a12b589f1f9,11,570,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+108,50ca5592e4b0cc5bad7c6449,11,216,The Sunflower,65 Union St,Bar,Unsure
+109,4b071106f964a52093f622e3,11,714,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+110,4f7d5f61e4b0fcf30bbe659a,12,535,Royal Victoria Hospital Level 8C,Missing data,Hospital,VeryLikelyOpen
+111,50d5fc41e4b004dcda341f79,12,251,Chips,69 Ballygomartin Rd,Restaurant,VeryLikelyOpen
+112,89c8d034284249ef4f1fcfec,12,710,Yetunde's Kitchen,21 Highgate Terrace,Restaurant,LikelyOpen
+113,4dd2bac3d4c0febf0feca9cd,12,618,Woodvale Park,Woodvale Rd,Park,VeryLikelyOpen
+114,d2bbedd98cd6455c7eedd065,12,690,Crystal Palace,523 Crumlin Rd,Restaurant,VeryLikelyOpen
+115,51f23d77498eb56ecd5f178b,12,705,Ardoyne Library,446-450 Crumlin Rd,Library,VeryLikelyOpen
+116,4eea631161aff2afcea59655,12,703,China Nights,3 Ardoyne Rd,Restaurant,VeryLikelyOpen
+117,16c22c0955314779696ab4d2,12,83,Bodrun Kebab House,68 Ballygomartin Rd,Restaurant,LikelyOpen
+118,63344b1960a80a563c2d3284,12,188,Glencairn Park,Missing data,Park,VeryLikelyOpen
+119,4f5ba23fe4b085f52d6e56c8,12,692,The Kitchen bar,Missing data,Bar,VeryLikelyOpen
+120,4f9934d7e4b0a7aa85279144,13,262,Bayleaf Restaurant Park Centre,Missing data,Coffee Shop,VeryLikelyOpen
+121,f0e4932b20494dcfd7e0d3da,13,297,Giz a Bite,336 Donegall Rd,Restaurant,VeryLikelyOpen
+122,c4b2a4ad2e104f8b55b0def0,13,303,Fitzys 24hr Convenience Store,212a Falls Rd,Restaurant,Unsure
+123,ed163cb15af74163a9cd24d9,13,198,T Hamilton,461 Donegall Rd,Monument,Unsure
+124,4ba25ff3f964a5209bf237e3,13,291,KFC,428-444 Donegall Rd,Restaurant,VeryLikelyOpen
+125,4d876a78651041bd3b239b30,13,673,Subway,121 Falls Rd,Restaurant,VeryLikelyOpen
+126,0a5f123514884a70043c49ad,13,253,The Bayleaf Restaurant,"Park Centre, Donegall Rd",Restaurant,LikelyOpen
+127,4bf1b88b78cec92871bcba86,13,831,Windsor Park,Donegall Rd,Stadium,VeryLikelyOpen
+128,5aec1c10628c83002cdf0150,13,290,Ruby Murray's cafe,336 Donegall Rd,Coffee Shop,LikelyOpen
+129,5d09115b4940bc002c82ca89,13,212,McDonald's,1-3 Glenmachan St,Restaurant,VeryLikelyOpen
+130,59cf9dc2aa6c9536b0f78460,14,445,Tribal Burger,86 Botanic Ave,Restaurant,VeryLikelyOpen
+131,4b459b93f964a5207d0e26e3,14,803,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+132,545b434b498e9a85bdb35967,14,382,The Woodworkers,20-22 Bradbury Pl,Bar,VeryLikelyOpen
+133,4c39a7270a71c9b6e7d642c9,14,452,Lee Garden,14-18 Botanic Ave,Restaurant,VeryLikelyOpen
+134,4b7554a1f964a520ac062ee3,14,430,Boojum,73 Botanic Ave,Restaurant,VeryLikelyOpen
+135,4bf0422df831c92849cd01f2,14,546,Ulster Museum,Botanic Gardens,Museum,VeryLikelyOpen
+136,51fc0981498e14d7ea479549,14,472,Maggie Mays,2 Malone Rd,Coffee Shop,VeryLikelyOpen
+137,56f3e2b5498e6346b7f91b31,14,247,Holohans Pantry,43 University Rd,Restaurant,VeryLikelyOpen
+138,4c191a0c4ff90f475e6b0f49,14,368,Villa Italia,39-41 University St,Restaurant,VeryLikelyOpen
+139,4b7d734ff964a52022bf2fe3,14,762,Botanic Gardens,College Park,Bar,VeryLikelyOpen
+140,578ba22a498e14e13ba14b1b,15,623,Titanic Belfast,1 Olympic Way,Museum,LikelyOpen
+141,4cb46b5adb32f04d5671dd4d,15,628,Titanic Belfast,2 Queen's Quay,Museum,VeryLikelyOpen
+142,51653bb6e4b04967c227054a,15,342,The Pump House Café,Missing data,Coffee Shop,LikelyOpen
+143,51320349e4b06242f03795b5,15,929,Subway,"The Arc, Queens Rd",Restaurant,VeryLikelyOpen
+144,4f6090eee4b07ca95a464133,15,938,The Dock Cafe,2K Queens Rd,Coffee Shop,VeryLikelyOpen
+145,4c7d13dd9efda143c46c87e2,15,206,HMS Caroline,"Alexandra Dock, Queens Rd",Museum,VeryLikelyOpen
+146,51ac9aee498e2bc299eb4e36,15,334,Krem,Queens Island,Coffee Shop,VeryLikelyOpen
+147,504b867fe4b04977de57e845,15,541,Titanic Slipway,Queens Rd,Monument,VeryLikelyOpen
+148,51a88d59498e93cab076354d,15,807,SS Nomadic,Queens Rd,Museum,VeryLikelyOpen
+149,4b62ae5df964a520d94e2ae3,15,315,Titanic's Dock and Pump-House,"Northern Ireland Science Park, Queens Rd",Museum,VeryLikelyOpen
+150,54917d6b498e225b49364d84,16,278,YO! Belfast,1 Victoria Square,Restaurant,VeryLikelyOpen
+151,50ca5592e4b0cc5bad7c6449,16,451,The Sunflower,65 Union St,Bar,Unsure
+152,5ae825e4ad910e002c72a002,16,266,Tim Hortons,65 Fountain St,Coffee Shop,VeryLikelyOpen
+153,4bd352d741b9ef3b0fe3ffe5,16,113,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+154,4b64a08bf964a52082c32ae3,16,152,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+155,52988e8511d22448bd236206,16,340,The Dirty Onion,3 Hill St,Bar,Unsure
+156,4bb3c394715eef3b6bce86bb,16,304,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+157,5a1fedbcbcbf7a12b589f1f9,16,306,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+158,520080a3498eb97026f147b8,16,415,Established Coffee,54 Hill St,Coffee Shop,Unsure
+159,4b071106f964a52093f622e3,16,287,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+160,4d89ef067139b1f72342bfd4,17,326,W5,2 Queen's Quay,Museum,VeryLikelyOpen
+161,514a517de4b0e876ff898ce4,17,981,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+162,4b588286f964a5204b5b28e3,17,378,Odyssey Arena,2 Queens Quay,Stadium,VeryLikelyOpen
+163,4f6090eee4b07ca95a464133,17,60,The Dock Cafe,2K Queens Rd,Coffee Shop,VeryLikelyOpen
+164,578ba22a498e14e13ba14b1b,17,278,Titanic Belfast,1 Olympic Way,Museum,LikelyOpen
+165,4be55ba4910020a19dd7d214,17,916,Custom House Square,Custom House Square,Monument,VeryLikelyOpen
+166,504b867fe4b04977de57e845,17,373,Titanic Slipway,Queens Rd,Monument,VeryLikelyOpen
+167,4cb46b5adb32f04d5671dd4d,17,276,Titanic Belfast,2 Queen's Quay,Museum,VeryLikelyOpen
+168,4ba161dcf964a52014b237e3,17,926,McHugh's Bar,29-31 Queen's Square,Restaurant,VeryLikelyOpen
+169,51a88d59498e93cab076354d,17,79,SS Nomadic,Queens Rd,Museum,VeryLikelyOpen
+170,4ba0fffbf964a520a98d37e3,18,884,Hatfield House,130 Ormeau Rd,Bar,VeryLikelyOpen
+171,4c8d13c4ed3ab60cd3496d21,18,352,Macau,271 Ormeau Rd,Restaurant,VeryLikelyOpen
+172,4bc4abe34cdfc9b6fef69821,18,955,Kingspan Stadium,85 Ravenhill Park,Stadium,VeryLikelyOpen
+173,56fd1e27498e65b9eabf8efa,18,58,General Merchants,361 Ormeau Rd,Restaurant,VeryLikelyOpen
+174,4c06ca359e1ab7134be25243,18,259,Errigle Inn,312-320 Ormeau Rd,Restaurant,VeryLikelyOpen
+175,591f03cf0d8a0f04db6c2cad,18,68,387 Ormeau Road,387 Ormeau Rd,Restaurant,VeryLikelyOpen
+176,5817638a38fa62c38f44588c,18,191,District,300 Ormeau Rd,Coffee Shop,VeryLikelyOpen
+177,5aa13b4031fd141238c92639,18,146,Bia Rebel,409 Ormeau Rd,Restaurant,VeryLikelyOpen
+178,4d14bf69cc216ea834555ed3,18,589,Cherryvale Playing Fields,Missing data,Park,VeryLikelyOpen
+179,4b7d734ff964a52022bf2fe3,18,916,Botanic Gardens,College Park,Park,VeryLikelyOpen
+180,4bdabe62c79cc928a48b7fe9,19,104,PizzaExpress,25-27 Bedford St,Restaurant,VeryLikelyOpen
+181,4c489364c047be9aef423479,19,241,Zen,55-59 Adelaide St,Restaurant,LikelyOpen
+182,4b6031acf964a52060d929e3,19,199,Harlem Cafe,34 Bedford St,Coffee Shop,LikelyOpen
+183,4c4647bd342c1b8d3040b689,19,279,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+184,4b459b93f964a5207d0e26e3,19,180,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+185,4b65d319f964a5203a022be3,19,193,The Limelight,17 Ormeau Ave,Bar,LikelyOpen
+186,5b9697acdd70c50039a9d2d2,19,120,Pug Uglys,Missing data,Restaurant,VeryLikelyOpen
+187,4bacb913f964a520e8063be3,19,46,Nando's,24 Ormeau Ave,Restaurant,VeryLikelyOpen
+188,4b50a28ff964a520762a27e3,19,280,Fibber Magees,38-42 Great Victoria St,Bar,VeryLikelyOpen
+189,4fc21ef5e4b099ce175faf24,19,501,Home Restaurant,22 Wellington Pl,Restaurant,Unsure
+190,4c4647bd342c1b8d3040b689,20,958,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+191,4b50a337f964a5209a2a27e3,20,926,Robinson's Saloon,38-40 Great Victoria St,Restaurant,VeryLikelyOpen
+192,527aaa5111d295217f40d588,20,956,Howard Street,56 Howard St,Restaurant,VeryLikelyOpen
+193,57ac99ec498e2258ef0521d3,20,928,Boojum,14-16 Great Victoria St,Restaurant,Unsure
+194,56329d33498efb2f43c4f39f,20,1018,India Gate,73-75 Great Victoria St,Restaurant,LikelyOpen
+195,4d876a78651041bd3b239b30,20,403,Subway,121 Falls Rd,Restaurant,VeryLikelyOpen
+196,4c50130638b0be9a515ee3fc,20,755,Long's,39 Athol St,Restaurant,LikelyOpen
+197,4b50a28ff964a520762a27e3,20,976,Fibber Magees,38-42 Great Victoria St,Bar,VeryLikelyOpen
+198,4b7064c9f964a52094172de3,20,976,Little Italy,13 Amelia St,Restaurant,LikelyOpen
+199,4e3526a1b3adaade053037fa,20,765,Shankill/Falls Peace Line,Canmore St,Monument,VeryLikelyOpen
+200,5a37b9bd16fa04126cd4ccd7,21,299,Oh Donuts & Coffee,55 Upper Arthur St,Restaurant,VeryLikelyOpen
+201,4b459b93f964a5207d0e26e3,21,698,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+202,4b64a08bf964a52082c32ae3,21,730,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+203,514a517de4b0e876ff898ce4,21,461,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+204,4b03d73ff964a520535022e3,21,356,Victoria Square Shopping Centre,1 Victoria Sq,Mall,VeryLikelyOpen
+205,4bb3c394715eef3b6bce86bb,21,299,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+206,4b071106f964a52093f622e3,21,555,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+207,5a1fedbcbcbf7a12b589f1f9,21,703,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+208,54917d6b498e225b49364d84,21,438,YO! Belfast,1 Victoria Square,Restaurant,VeryLikelyOpen
+209,4c489364c047be9aef423479,21,339,Zen,55-59 Adelaide St,Restaurant,LikelyOpen
+210,5225aec711d2545620900017,22,130,26 West Bar & Grill,"Kennedy Centre, Falls Rd",Bar,LikelyOpen
+211,56b604ba498e05a41db12725,22,856,Nando's,"Boucher Retail Park, Boucher Cres",Restaurant,VeryLikelyOpen
+212,5c1509f325ecca002cf179ef,22,846,Five Guys,"32a, Boucher Crescent",Restaurant,LikelyOpen
+213,51bc3b315019cde2256bac34,22,89,Herrons Country Fried Chicken Kennedy Centre,58a Kennedy Centre,Restaurant,VeryLikelyOpen
+214,589ef43203e29a66d92c10f1,22,865,Eddie Rocket's,Boucher Crescent,Restaurant,VeryLikelyOpen
+215,36fb9e8a3aeb45d3165f8727,22,179,China Town,533 Falls Rd,Restaurant,LikelyOpen
+216,4298c66bd8ca4e7de569a6e4,22,234,Funky Monkeys Kennedy Centre,564-568 Falls Rd,Park,LikelyOpen
+217,4cdd694b14119eb0c525ed33,22,157,Burger King,Kennedy Centre,Restaurant,VeryLikelyOpen
+218,4db30bf7a86e8d27076738b6,22,122,Felons Club,537 Falls Road,Bar,VeryLikelyOpen
+219,4c53fab772cf0f479f90c2d3,22,113,Subway,Kennedy Centre,Restaurant,VeryLikelyOpen
+220,520080a3498eb97026f147b8,23,178,Established Coffee,54 Hill St,Coffee Shop,Unsure
+221,5a1fedbcbcbf7a12b589f1f9,23,47,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+222,4bb897143db7b7135e65219a,23,43,The Spaniard,3 Skipper St,Bar,LikelyOpen
+223,54917d6b498e225b49364d84,23,264,YO! Belfast,1 Victoria Square,Restaurant,VeryLikelyOpen
+224,4b06f46df964a5201af422e3,23,78,Black Box,18-22 Hill St,Concert Hall,Unsure
+225,52988e8511d22448bd236206,23,31,The Dirty Onion,3 Hill St,Bar,Unsure
+226,514a517de4b0e876ff898ce4,23,360,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+227,4b071106f964a52093f622e3,23,144,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+228,4c6fcdd4d274b60cca8cd70d,23,98,Bert's Jazz Bar,16 Skipper St,Bar,Unsure
+229,4bd352d741b9ef3b0fe3ffe5,23,230,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+230,4d7f4904e7e1721e4ceaee0b,24,251,Tropical Ravine,Botanic Gardens,Botanical Garden,VeryLikelyOpen
+231,4b7554a1f964a520ac062ee3,24,464,Boojum,73 Botanic Ave,Restaurant,VeryLikelyOpen
+232,51fc0981498e14d7ea479549,24,122,Maggie Mays,2 Malone Rd,Coffee Shop,VeryLikelyOpen
+233,4c39a7270a71c9b6e7d642c9,24,618,Lee Garden,14-18 Botanic Ave,Restaurant,VeryLikelyOpen
+234,545b434b498e9a85bdb35967,24,574,The Woodworkers,20-22 Bradbury Pl,Bar,VeryLikelyOpen
+235,4bf0422df831c92849cd01f2,24,191,Ulster Museum,Botanic Gardens,Museum,VeryLikelyOpen
+236,4c191a0c4ff90f475e6b0f49,24,314,Villa Italia,39-41 University St,Restaurant,VeryLikelyOpen
+237,59cf9dc2aa6c9536b0f78460,24,446,Tribal Burger,86 Botanic Ave,Restaurant,VeryLikelyOpen
+238,56f3e2b5498e6346b7f91b31,24,233,Holohans Pantry,43 University Rd,Restaurant,VeryLikelyOpen
+239,4b7d734ff964a52022bf2fe3,24,428,Botanic Gardens,College Park,Park,VeryLikelyOpen
+240,4b03d73ff964a520535022e3,25,287,Victoria Square Shopping Centre,1 Victoria Sq,Mall,VeryLikelyOpen
+241,4bd352d741b9ef3b0fe3ffe5,25,568,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+242,52988e8511d22448bd236206,25,582,The Dirty Onion,3 Hill St,Bar,Unsure
+243,4bb3c394715eef3b6bce86bb,25,352,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+244,4b071106f964a52093f622e3,25,428,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+245,54917d6b498e225b49364d84,25,346,YO! Belfast,1 Victoria Square,Restaurant,VeryLikelyOpen
+246,520080a3498eb97026f147b8,25,731,Established Coffee,54 Hill St,Coffee Shop,Unsure
+247,4b64a08bf964a52082c32ae3,25,757,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+248,514a517de4b0e876ff898ce4,25,223,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+249,5a1fedbcbcbf7a12b589f1f9,25,574,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+250,4e3526a1b3adaade053037fa,26,549,Shankill/Falls Peace Line,Canmore St,Monument,VeryLikelyOpen
+251,4c50130638b0be9a515ee3fc,26,742,Long's,39 Athol St,Restaurant,LikelyOpen
+252,527aaa5111d295217f40d588,26,950,Howard Street,56 Howard St,Restaurant,VeryLikelyOpen
+253,57dd894e498e23543490088a,26,960,La Taqueria,53 Castle St,Bar,VeryLikelyOpen
+254,4b50a337f964a5209a2a27e3,26,978,Robinson's Saloon,38-40 Great Victoria St,Restaurant,VeryLikelyOpen
+255,57ac99ec498e2258ef0521d3,26,945,Boojum,14-16 Great Victoria St,Restaurant,Unsure
+256,4c7594d3604a3704191e8349,26,861,Maddens Bar,74 Berry St,Bar,Unsure
+257,4fc21ef5e4b099ce175faf24,26,986,Home Restaurant,22 Wellington Pl,Restaurant,Unsure
+258,4b64a08bf964a52082c32ae3,26,993,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+259,53751430498e924d1abd978c,26,982,Stix and Stones,44-46 Upper Queen St,Restaurant,VeryLikelyOpen
+260,4d7f4904e7e1721e4ceaee0b,27,153,Tropical Ravine,Botanic Gardens,Botanical Garden,VeryLikelyOpen
+261,4b7d734ff964a52022bf2fe3,27,264,Botanic Gardens,College Park,Park,VeryLikelyOpen
+262,4c45f53af5aee21ee0f31658,27,214,Molly's Yard,1 College Green Mews,Restaurant,VeryLikelyOpen
+263,4c191a0c4ff90f475e6b0f49,27,249,Villa Italia,39-41 University St,Restaurant,VeryLikelyOpen
+264,4bf0422df831c92849cd01f2,27,229,Ulster Museum,Botanic Gardens,Museum,VeryLikelyOpen
+265,59cf9dc2aa6c9536b0f78460,27,341,Tribal Burger,86 Botanic Ave,Restaurant,VeryLikelyOpen
+266,4b7554a1f964a520ac062ee3,27,378,Boojum,73 Botanic Ave,Restaurant,VeryLikelyOpen
+267,545b434b498e9a85bdb35967,27,571,The Woodworkers,20-22 Bradbury Pl,Bar,VeryLikelyOpen
+268,56f3e2b5498e6346b7f91b31,27,298,Holohans Pantry,43 University Rd,Restaurant,VeryLikelyOpen
+269,51fc0981498e14d7ea479549,27,283,Maggie Mays,2 Malone Rd,Coffee Shop,VeryLikelyOpen
+270,4c4647bd342c1b8d3040b689,28,310,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+271,4bb3c394715eef3b6bce86bb,28,270,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+272,4c489364c047be9aef423479,28,250,Zen,55-59 Adelaide St,Restaurant,LikelyOpen
+273,4bacb913f964a520e8063be3,28,321,Nando's,24 Ormeau Ave,Restaurant,VeryLikelyOpen
+274,4bdabe62c79cc928a48b7fe9,28,266,PizzaExpress,25-27 Bedford St,Restaurant,VeryLikelyOpen
+275,5a37b9bd16fa04126cd4ccd7,28,171,Oh Donuts & Coffee,55 Upper Arthur St,Restaurant,VeryLikelyOpen
+276,4b64a08bf964a52082c32ae3,28,444,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+277,4b459b93f964a5207d0e26e3,28,381,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+278,5ae825e4ad910e002c72a002,28,208,Tim Hortons,65 Fountain St,Coffee Shop,VeryLikelyOpen
+279,4fc21ef5e4b099ce175faf24,28,235,Home Restaurant,22 Wellington Pl,Restaurant,Unsure
+280,56ad23e0498e9f04c03a19c8,29,216,Hole in the Wall,Missing data,Bar,VeryLikelyOpen
+281,14ad19ed1d0647f283a3a3ef,29,27,CasaBella,343 Antrim Rd,Restaurant,LikelyOpen
+282,59fb35316adbf5087fff3781,29,148,Belfast Hidden Tours,5 Lothair Ave,Tourism,LikelyOpen
+283,4c8a1e4b2e333704f875c041,29,170,Devines antrim road,Missing data,Restaurant,VeryLikelyOpen
+284,4bc892bd15a7ef3b82577bda,29,290,Manny's,241-243 Antrim Rd,Restaurant,LikelyOpen
+285,4daa16011e72c1ab9becc2de,29,96,Chef King,345 Antrim Rd,Restaurant,LikelyOpen
+286,583d42216b0cdb761c39bb74,29,94,Angelas Sandwich Bar,315 Antrim Rd,Bar,VeryLikelyOpen
+287,4e91caed7ee60278a65886ad,29,48,Cassidy's Bar,347 Antrim Road,Bar,VeryLikelyOpen
+288,4c06a9388a81c9b659122690,29,561,Waterworks,Antrim Rd,Park,VeryLikelyOpen
+289,574ad440498ee45007d902e1,29,95,Sylvesters Cafe,295-297 Antrim Rd,Coffee Shop,LikelyOpen
+290,5ae825e4ad910e002c72a002,30,276,Tim Hortons,65 Fountain St,Coffee Shop,VeryLikelyOpen
+291,514a517de4b0e876ff898ce4,30,426,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+292,54917d6b498e225b49364d84,30,213,YO! Belfast,1 Victoria Square,Restaurant,VeryLikelyOpen
+293,5a1fedbcbcbf7a12b589f1f9,30,426,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+294,4b071106f964a52093f622e3,30,314,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+295,4b64a08bf964a52082c32ae3,30,368,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+296,5a37b9bd16fa04126cd4ccd7,30,100,Oh Donuts & Coffee,55 Upper Arthur St,Restaurant,VeryLikelyOpen
+297,4b03d73ff964a520535022e3,30,181,Victoria Square Shopping Centre,1 Victoria Sq,Mall,VeryLikelyOpen
+298,4bd352d741b9ef3b0fe3ffe5,30,280,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+299,4bb3c394715eef3b6bce86bb,30,72,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+300,50831bd2e4b0211346dea00d,31,480,The York,86 York Rd,Restaurant,VeryLikelyOpen
+301,4c06a9388a81c9b659122690,31,1268,Waterworks,Antrim Rd,Park,VeryLikelyOpen
+302,4e6d2278483bff3f0789b732,31,365,C View Palace,78-82 Shore Rd,Restaurant,VeryLikelyOpen
+303,58247a6c2a4e2b5cc8bdc25a,31,38,Grove Library,Missing data,Library,VeryLikelyOpen
+304,5a8ebe53a9fe123e9ff58e3b,31,821,McDonald's,233 Shore Rd,Restaurant,VeryLikelyOpen
+305,51226bbde4b027b3b318bba3,31,135,Beatties Traditional Fish and Chips,Cavehill Rd,Restaurant,VeryLikelyOpen
+306,4c17334674fb20a185425112,31,175,Bassil's,11-35 Shore Rd,Restaurant,VeryLikelyOpen
+307,4d876a77651041bd18229b30,31,560,Subway,Antrium Rd,Restaurant,VeryLikelyOpen
+308,649f3c926dc7001835b736c0,31,493,Oregano,Missing data,Restaurant,VeryLikelyOpen
+309,4fe78ba5e4b050dddefcb8c7,31,472,Lucky Dragon,94 York Rd,Restaurant,VeryLikelyOpen
+310,5a7350051ffe97255f8c5c06,32,353,Barnes Chip Shop,28 Islandbawn St,Restaurant,LikelyOpen
+311,4e75bee3c65bb91db47f5af1,32,229,The Rock Bar,491-493 Falls Rd,Bar,VeryLikelyOpen
+312,b1b81d62f2b44c9163d5505d,32,23,West Belfast Sports & Social Club,370 Falls Rd,Bar,VeryLikelyOpen
+313,0a5f123514884a70043c49ad,32,378,The Bayleaf Restaurant,"Park Centre, Donegall Rd",Restaurant,LikelyOpen
+314,4f9934d7e4b0a7aa85279144,32,405,Bayleaf Restaurant Park Centre,Missing data,Restaurant,VeryLikelyOpen
+315,4ba25ff3f964a5209bf237e3,32,523,KFC,428-444 Donegall Rd,Restaurant,VeryLikelyOpen
+316,c05f066731c449134d7b98e9,32,57,Rocco's Pizza & Treats,447 Falls Rd,Restaurant,VeryLikelyOpen
+317,4e47ebc452b1bac0d989dee1,32,31,The west club,Missing data,Bar,VeryLikelyOpen
+318,4d876a78651041bd3b239b30,32,934,Subway,121 Falls Rd,Restaurant,VeryLikelyOpen
+319,ec3013f3b6c143ce353f3df2,32,367,Kangaroos Tie Their Own Laces,430 Falls Rd,Coffee Shop,LikelyOpen
+320,520080a3498eb97026f147b8,33,305,Established Coffee,54 Hill St,Coffee Shop,Unsure
+321,4b071106f964a52093f622e3,33,391,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+322,4b64a08bf964a52082c32ae3,33,196,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+323,4bd352d741b9ef3b0fe3ffe5,33,227,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+324,50ca5592e4b0cc5bad7c6449,33,213,The Sunflower,65 Union St,Bar,Unsure
+325,5a1fedbcbcbf7a12b589f1f9,33,304,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+326,4bb897143db7b7135e65219a,33,327,The Spaniard,3 Skipper St,Bar,LikelyOpen
+327,4e332e7e227111ae768bb67b,33,45,The Deer’s Head,1-3 Lower Garfield St,Restaurant,Unsure
+328,52988e8511d22448bd236206,33,327,The Dirty Onion,3 Hill St,Bar,Unsure
+329,4c1669aea5eb76b040ccc4b7,33,190,The John Hewitt,51 Donegall St,Restaurant,VeryLikelyOpen
+330,2fe39ebe873642fc931fef18,34,128,The Weo Ping,177 Antrim Rd,Restaurant,LikelyOpen
+331,9d069760d3594518afb78f5f,34,78,Best Food House,125 Antrim Rd,Restaurant,VeryLikelyOpen
+332,4ed15014775bbb5f33fef475,34,307,Odyssey Lounge,Missing data,Bar,VeryLikelyOpen
+333,53f7ab75498eaf3f62ad2545,34,239,Cafe Remedy,Missing data,Bar,VeryLikelyOpen
+334,f14cac59446a4ae71e54227a,34,231,Use Your Loaf,161 Oldpark Rd,Coffee Shop,Unsure
+335,4c1a4b9063750f476b07b367,34,98,Mersin Kebab House,Missing data,Restaurant,VeryLikelyOpen
+336,34ff109807624bc66d49385c,34,138,The Phoenix,179-181 Antrim Rd,Bar,VeryLikelyOpen
+337,4f171a11e4b0aabf1d62ce1c,34,84,Clementine Asian European Kitchen,180 Antrim Rd,Restaurant,VeryLikelyOpen
+338,52c89bda498ebff3a28bb97b,34,984,Maverick,1 Union St,Bar,Unsure
+339,50b0e62be4b0441cd92ec4f3,34,498,Crumlin Road Gaol,53-55 Crumlin Rd,Museum,VeryLikelyOpen
+340,59f0cd65b9ac383a99665508,35,817,Babel,70-74 Ann St,Bar,VeryLikelyOpen
+341,4c489364c047be9aef423479,35,842,Zen,55-59 Adelaide St,Restaurant,LikelyOpen
+342,54917d6b498e225b49364d84,35,846,YO! Belfast,1 Victoria Square,Restaurant,VeryLikelyOpen
+343,5a37b9bd16fa04126cd4ccd7,35,840,Oh Donuts & Coffee,55 Upper Arthur St,Restaurant,VeryLikelyOpen
+344,4c6fcdd4d274b60cca8cd70d,35,957,Bert's Jazz Bar,16 Skipper St,Bar,Unsure
+345,4b65d319f964a5203a022be3,35,871,The Limelight,17 Ormeau Ave,Bar,LikelyOpen
+346,4bb3c394715eef3b6bce86bb,35,805,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+347,4b071106f964a52093f622e3,35,927,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+348,514a517de4b0e876ff898ce4,35,687,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+349,4b03d73ff964a520535022e3,35,780,Victoria Square Shopping Centre,1 Victoria Sq,Mall,VeryLikelyOpen
+350,52c89bda498ebff3a28bb97b,36,795,Maverick,1 Union St,Bar,Unsure
+351,5c84222f2f97ec002c07baf8,36,440,Peppers,Missing data,Restaurant,VeryLikelyOpen
+352,4bf025d33a002d7f0dba85a4,36,789,Union Street Bar,8-14 Union St,Bar,Unsure
+353,4bfd1aaff61dc9b6c8799ede,36,109,Mater Hospital,45-51 Crumlin Rd,Hospital,VeryLikelyOpen
+354,5a8ae1b1178a2a50af56bee1,36,976,Curated Kitchen & Coffee,60 Donegall St,Coffee Shop,Unsure
+355,4c7653e1d8948cfa5f046ada,36,576,KFC,2-16 Shankhill Rd,Restaurant,VeryLikelyOpen
+356,50b0e62be4b0441cd92ec4f3,36,109,Crumlin Road Gaol,53-55 Crumlin Rd,Museum,VeryLikelyOpen
+357,59b559325a2c9107743ceba7,36,92,Cuffs Bar and Grill,53-55 Crumlin Rd,Restaurant,VeryLikelyOpen
+358,53f7ab75498eaf3f62ad2545,36,396,Cafe Remedy,Missing data,Bar,VeryLikelyOpen
+359,50ca5592e4b0cc5bad7c6449,36,807,The Sunflower,65 Union St,Bar,Unsure
+360,5c12ccb5c66666002c309972,37,398,Tim Hortons,Connswater Retail Park,Coffee Shop,VeryLikelyOpen
+361,4f3545a9e4b08817896dc9c9,37,208,Adana Turkish kebab house,Missing data,Restaurant,VeryLikelyOpen
+362,379475e744c04dd60a61d32d,37,332,The Newton Brunch Bar,345 Newtownards Rd,Restaurant,LikelyOpen
+363,4eb04b3bd3e30d44841464be,37,271,Chinese Delight,238 Albertbridge Rd,Restaurant,VeryLikelyOpen
+364,4f35220ee4b064bef3292524,37,413,Tings Garden,177 Albertbridge Rd,Restaurant,VeryLikelyOpen
+365,4cefad918604a1cd1e3bfec0,37,82,Mr J.D's Fish and Chip Bar,222 Newtownard's rd,Restaurant,LikelyOpen
+366,4e8741628b8177dfec178731,37,130,The East,Missing data,Restaurant,VeryLikelyOpen
+367,f9ae86e698b14c151226eab6,37,282,Galbraith Memorials,283 Albertbridge Rd,Monument,Unsure
+368,c8aba0d3f522452e5c6df28a,37,405,Prince Albert Lounge,369 Newtownards Rd,Bar,LikelyOpen
+369,625ab2bf6b93a5347129eb91,37,276,Flout,Missing data,Restaurant,VeryLikelyOpen
+370,4c489364c047be9aef423479,38,462,Zen,55-59 Adelaide St,Restaurant,LikelyOpen
+371,4bb3c394715eef3b6bce86bb,38,728,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+372,545b434b498e9a85bdb35967,38,811,The Woodworkers,20-22 Bradbury Pl,Bar,VeryLikelyOpen
+373,514a517de4b0e876ff898ce4,38,894,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+374,4c4647bd342c1b8d3040b689,38,838,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+375,4db170535da32cf2df5b643f,38,98,Gasworks Green,Cromac Pl,Bar,VeryLikelyOpen
+376,4b65d319f964a5203a022be3,38,420,The Limelight,17 Ormeau Ave,Bar,LikelyOpen
+377,4bacb913f964a520e8063be3,38,587,Nando's,24 Ormeau Ave,Restaurant,VeryLikelyOpen
+378,4bdabe62c79cc928a48b7fe9,38,626,PizzaExpress,25-27 Bedford St,Restaurant,VeryLikelyOpen
+379,4b459b93f964a5207d0e26e3,38,772,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+380,56fd1e27498e65b9eabf8efa,39,234,General Merchants,361 Ormeau Rd,Restaurant,VeryLikelyOpen
+381,4bf0422df831c92849cd01f2,39,983,Ulster Museum,Botanic Gardens,Museum,VeryLikelyOpen
+382,4ba0fffbf964a520a98d37e3,39,595,Hatfield House,130 Ormeau Rd,Bar,VeryLikelyOpen
+383,4bdc120e3904a59330c34c9e,39,912,Yum Bar and Restaurant,157 Stranmillis Rd,Restaurant,LikelyOpen
+384,4c45f53af5aee21ee0f31658,39,931,Molly's Yard,1 College Green Mews,Restaurant,VeryLikelyOpen
+385,4b7d734ff964a52022bf2fe3,39,730,Botanic Gardens,College Park,Park,VeryLikelyOpen
+386,4d7f4904e7e1721e4ceaee0b,39,887,Tropical Ravine,Botanic Gardens,Botanical Garden,VeryLikelyOpen
+387,5817638a38fa62c38f44588c,39,481,District,300 Ormeau Rd,Coffee Shop,VeryLikelyOpen
+388,5aa13b4031fd141238c92639,39,435,Bia Rebel,409 Ormeau Rd,Restaurant,VeryLikelyOpen
+389,4c06ca359e1ab7134be25243,39,550,Errigle Inn,312-320 Ormeau Rd,Restaurant,VeryLikelyOpen
+390,5eb9b51f213a45538f4c0f64,40,267,Orchard Cafe,395-405 Newtownards Rd,Coffee Shop,VeryLikelyOpen
+391,4c5ab857b05c1b8d5fd6d8b1,40,679,Subway,Cregagh Rd,Restaurant,LikelyOpen
+392,57e16484498eddcb023eb02f,40,239,EastSide Visitor Centre,402 Newtownards Rd,Tourism,VeryLikelyOpen
+393,50ef1b7fe4b00427f34d1154,40,100,Kungfu Buffet,Missing data,Restaurant,LikelyOpen
+394,5c12ccb5c66666002c309972,40,126,Tim Hortons,Connswater Retail Park,Coffee Shop,VeryLikelyOpen
+395,5c096533a5a3150039b8da3d,40,255,Freight East,402 Newtownards Rd,Restaurant,VeryLikelyOpen
+396,57cc393d498eb67d67c40893,40,265,Jack,402 Newtownards Rd,Coffee Shop,VeryLikelyOpen
+397,379475e744c04dd60a61d32d,40,259,The Newton Brunch Bar,345 Newtownards Rd,Restaurant,LikelyOpen
+398,62a34d76f4d6a87d276d8ef0,40,236,Bullhouse East,442 Newtownards Rd,Bar,VeryLikelyOpen
+399,c8aba0d3f522452e5c6df28a,40,221,Prince Albert Lounge,369 Newtownards Rd,Bar,LikelyOpen
+400,4c6fcdd4d274b60cca8cd70d,41,278,Bert's Jazz Bar,16 Skipper St,Bar,Unsure
+401,52988e8511d22448bd236206,41,402,The Dirty Onion,3 Hill St,Bar,Unsure
+402,5a1fedbcbcbf7a12b589f1f9,41,387,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+403,54917d6b498e225b49364d84,41,135,YO! Belfast,1 Victoria Square,Restaurant,VeryLikelyOpen
+404,5a37b9bd16fa04126cd4ccd7,41,287,Oh Donuts & Coffee,55 Upper Arthur St,Restaurant,VeryLikelyOpen
+405,4bd352d741b9ef3b0fe3ffe5,41,354,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+406,4b071106f964a52093f622e3,41,236,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+407,514a517de4b0e876ff898ce4,41,190,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+408,4bb3c394715eef3b6bce86bb,41,189,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+409,4b03d73ff964a520535022e3,41,75,Victoria Square Shopping Centre,1 Victoria Sq,Mall,VeryLikelyOpen
+410,4e89a9ea775b4a1123a42262,42,444,Curry Kitchen,Missing data,Restaurant,VeryLikelyOpen
+411,bb76ad65731947d4ff07f9eb,42,500,Broken biscuits coffee shop,2 Prince Regent Rd,Coffee Shop,LikelyOpen
+412,4c96765858d4b60c684b3b29,42,576,China Express,1 Knock Rd,Restaurant,VeryLikelyOpen
+413,4c52bcf19d642d7f8a919bdf,42,303,Cafe Rojo,40 Montgomery Rd,Restaurant,VeryLikelyOpen
+414,4c24511b136d20a1e6b4e161,42,558,John Dorys,1 Ballygowan Rd,Restaurant,VeryLikelyOpen
+415,4c7d4e9e10916dcb89072996,42,571,Subway,Ballygowan Rd,Restaurant,VeryLikelyOpen
+416,4bd1f67e9854d13a0ba2fa4d,42,590,Domino's Pizza,226/228 Knock Rd,Restaurant,VeryLikelyOpen
+417,76c78f49f79f4e53b54c96b2,42,313,Diageo,3 Queens Square,Restaurant,VeryLikelyOpen
+418,4c9748f66b35a143867e34dc,42,363,Arc Cafe,464 Castlereagh Rd,Coffee Shop,LikelyOpen
+419,4d25822ed713b1f7e6cedf53,42,486,Dva Test Centre,Dill Rd,City Hall,LikelyOpen
+420,50b0e62be4b0441cd92ec4f3,43,633,Crumlin Road Gaol,53-55 Crumlin Rd,Museum,VeryLikelyOpen
+421,50ca5592e4b0cc5bad7c6449,43,750,The Sunflower,65 Union St,Bar,Unsure
+422,4c7594d3604a3704191e8349,43,769,Maddens Bar,74 Berry St,Bar,Unsure
+423,52c89bda498ebff3a28bb97b,43,848,Maverick,1 Union St,Bar,Unsure
+424,4b64a08bf964a52082c32ae3,43,908,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+425,4e3526a1b3adaade053037fa,43,779,Shankill/Falls Peace Line,Canmore St,Monument,VeryLikelyOpen
+426,5a8ae1b1178a2a50af56bee1,43,965,Curated Kitchen & Coffee,60 Donegall St,Coffee Shop,Unsure
+427,57dd894e498e23543490088a,43,906,La Taqueria,53 Castle St,Bar,VeryLikelyOpen
+428,4e332e7e227111ae768bb67b,43,927,The Deer’s Head,1-3 Lower Garfield St,Restaurant,Unsure
+429,4c50130638b0be9a515ee3fc,43,943,Long's,39 Athol St,Restaurant,LikelyOpen
+430,4b4506d3f964a5209b0126e3,44,855,Ryan's Bar and Restaurant,116-118 Lisburn Rd,Bar,VeryLikelyOpen
+431,5c1509f325ecca002cf179ef,44,638,Five Guys,"32a, Boucher Crescent",Restaurant,LikelyOpen
+432,611fc56243314d66ace34491,44,214,Beatties Traditional Fish & Chips,222 Tates Ave,Restaurant,VeryLikelyOpen
+433,4bf1b88b78cec92871bcba86,44,127,Windsor Park,Donegall Rd,Stadium,VeryLikelyOpen
+434,4bae2ddaf964a5205b8e3be3,44,641,Doorsteps,455 Lisburn Rd,Coffee Shop,VeryLikelyOpen
+435,4bf590c8bfeac92801ba9236,44,854,The Jharna,133 Lisburn Rd,Restaurant,VeryLikelyOpen
+436,4ba10674f964a5202f9037e3,44,646,Jenz Coffee Company,207 Lisburn Rd,Coffee Shop,LikelyOpen
+437,56b604ba498e05a41db12725,44,603,Nando's,"Boucher Retail Park, Boucher Cres",Restaurant,VeryLikelyOpen
+438,4b4a40c5f964a520dc8026e3,44,829,Cafe Fish,539 Lisburn Rd,Restaurant,VeryLikelyOpen
+439,4bb7213e1344b713f7619e04,44,812,Clements,342 Lisburn Rd,Coffee Shop,LikelyOpen
+440,62a34d76f4d6a87d276d8ef0,45,57,Bullhouse East,442 Newtownards Rd,Bar,VeryLikelyOpen
+441,57e16484498eddcb023eb02f,45,51,EastSide Visitor Centre,402 Newtownards Rd,Tourism,VeryLikelyOpen
+442,55feed95498e7a8fc0aaedb2,45,922,Slim's Healthy Kitchen,28 Belmont Rd,Restaurant,VeryLikelyOpen
+443,5eb9b51f213a45538f4c0f64,45,97,Orchard Cafe,395-405 Newtownards Rd,Coffee Shop,VeryLikelyOpen
+444,4c5fcb2354ac0f472137b421,45,832,Bennetts,4 Belmont Rd,Restaurant,LikelyOpen
+445,4c5ab857b05c1b8d5fd6d8b1,45,947,Subway,Cregagh Rd,Restaurant,LikelyOpen
+446,5c096533a5a3150039b8da3d,45,48,Freight East,402 Newtownards Rd,Restaurant,VeryLikelyOpen
+447,586b7da07b43b43605a4d781,45,1011,Cyprus Avenue,228 Upper Newtownards Rd,Restaurant,VeryLikelyOpen
+448,535fa87c498edafe09019733,45,955,Oliver's Coffee Bar,57-59 Belmont Rd,Coffee Shop,VeryLikelyOpen
+449,57cc393d498eb67d67c40893,45,24,Jack,402 Newtownards Rd,Coffee Shop,VeryLikelyOpen
+450,4d89ef067139b1f72342bfd4,46,788,W5,2 Queen's Quay,Museum,VeryLikelyOpen
+451,4b588286f964a5204b5b28e3,46,734,Odyssey Arena,2 Queens Quay,Stadium,VeryLikelyOpen
+452,50ca02c3245f2d4aa8c2bd75,46,959,Cables Bar,4 Lanyon Pl,Bar,VeryLikelyOpen
+453,4cb46b5adb32f04d5671dd4d,46,908,Titanic Belfast,2 Queen's Quay,Museum,VeryLikelyOpen
+454,4b4dfef8f964a52076dd26e3,46,984,Belfast Waterfront,2 Lanyon Pl,Concert Hall,VeryLikelyOpen
+455,4f6090eee4b07ca95a464133,46,693,The Dock Cafe,2K Queens Rd,Coffee Shop,VeryLikelyOpen
+456,51a88d59498e93cab076354d,46,762,SS Nomadic,Queens Rd,Museum,VeryLikelyOpen
+457,504b867fe4b04977de57e845,46,983,Titanic Slipway,Queens Rd,Monument,VeryLikelyOpen
+458,644055ec8831fc46af21271d,46,785,Nando’s,Missing data,Restaurant,Unsure
+459,578ba22a498e14e13ba14b1b,46,906,Titanic Belfast,1 Olympic Way,Museum,LikelyOpen
+460,547c64fd498eaea3bef78430,47,157,Clements Coffee,269 Upper Newtownards Rd,Coffee Shop,LikelyOpen
+461,4bf859a6b182c9b6ca5b775a,47,227,Horatio Todd's Bar & Restaurant,406 Upper Newtownards Rd,Restaurant,VeryLikelyOpen
+462,535fa87c498edafe09019733,47,840,Oliver's Coffee Bar,57-59 Belmont Rd,Coffee Shop,VeryLikelyOpen
+463,4eee29245c5c794ad2f64e83,47,198,Il Pirata,279-281 Upper Newtownards Rd,Restaurant,VeryLikelyOpen
+464,51153d24e4b0484af2b1292b,47,211,Green's Pizza,283-285 Upper Newtownards Rd,Restaurant,VeryLikelyOpen
+465,4bfee552369476b011068d1f,47,161,Little Wing Pizzeria,201 Upper Newtownards Rd,Restaurant,VeryLikelyOpen
+466,59eb273e1bc704513ac4f7df,47,188,Cafe Mauds,312 Upper Newtownards Rd,Coffee Shop,VeryLikelyOpen
+467,4c30b7a6ed37a593be3f6903,47,175,Mandarin City,273-275 Upper Newtownards Rd,Restaurant,VeryLikelyOpen
+468,586b7da07b43b43605a4d781,47,485,Cyprus Avenue,228 Upper Newtownards Rd,Restaurant,VeryLikelyOpen
+469,4fa43216e4b01acec2fec23a,47,116,Neill's Hill Brasserie,229 Upper Newtownards Rd,Coffee Shop,VeryLikelyOpen
+470,4c4647bd342c1b8d3040b689,48,438,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+471,4bacb913f964a520e8063be3,48,299,Nando's,24 Ormeau Ave,Restaurant,VeryLikelyOpen
+472,4bb3c394715eef3b6bce86bb,48,307,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+473,5a37b9bd16fa04126cd4ccd7,48,226,Oh Donuts & Coffee,55 Upper Arthur St,Restaurant,VeryLikelyOpen
+474,514a517de4b0e876ff898ce4,48,632,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+475,4b6031acf964a52060d929e3,48,258,Harlem Cafe,34 Bedford St,Coffee Shop,LikelyOpen
+476,4bdabe62c79cc928a48b7fe9,48,281,PizzaExpress,25-27 Bedford St,Restaurant,VeryLikelyOpen
+477,4b64a08bf964a52082c32ae3,48,631,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+478,4b459b93f964a5207d0e26e3,48,446,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+479,4c489364c047be9aef423479,48,109,Zen,55-59 Adelaide St,Restaurant,LikelyOpen
+480,5a1fedbcbcbf7a12b589f1f9,49,295,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+481,52988e8511d22448bd236206,49,273,The Dirty Onion,3 Hill St,Bar,Unsure
+482,4c6fcdd4d274b60cca8cd70d,49,245,Bert's Jazz Bar,16 Skipper St,Bar,Unsure
+483,4bd352d741b9ef3b0fe3ffe5,49,448,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+484,4be55ba4910020a19dd7d214,49,87,Custom House Square,Custom House Square,Monument,VeryLikelyOpen
+485,520080a3498eb97026f147b8,49,373,Established Coffee,54 Hill St,Coffee Shop,Unsure
+486,4bb897143db7b7135e65219a,49,275,The Spaniard,3 Skipper St,Bar,LikelyOpen
+487,514a517de4b0e876ff898ce4,49,243,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+488,4b071106f964a52093f622e3,49,272,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+489,54917d6b498e225b49364d84,49,349,YO! Belfast,1 Victoria Square,Restaurant,VeryLikelyOpen
+490,56fd1e27498e65b9eabf8efa,50,919,General Merchants,361 Ormeau Rd,Restaurant,VeryLikelyOpen
+491,51fc0981498e14d7ea479549,50,938,Maggie Mays,2 Malone Rd,Coffee Shop,VeryLikelyOpen
+492,5aa13b4031fd141238c92639,50,915,Bia Rebel,409 Ormeau Rd,Restaurant,VeryLikelyOpen
+493,591f03cf0d8a0f04db6c2cad,50,922,387 Ormeau Road,387 Ormeau Rd,Restaurant,VeryLikelyOpen
+494,4c06ca359e1ab7134be25243,50,965,Errigle Inn,312-320 Ormeau Rd,Restaurant,VeryLikelyOpen
+495,4bdc120e3904a59330c34c9e,50,451,Yum Bar and Restaurant,157 Stranmillis Rd,Restaurant,LikelyOpen
+496,5817638a38fa62c38f44588c,50,951,District,300 Ormeau Rd,Coffee Shop,VeryLikelyOpen
+497,4d7f4904e7e1721e4ceaee0b,50,872,Tropical Ravine,Botanic Gardens,Botanical Garden,VeryLikelyOpen
+498,4bf0422df831c92849cd01f2,50,874,Ulster Museum,Botanic Gardens,Museum,VeryLikelyOpen
+499,4b7d734ff964a52022bf2fe3,50,750,Botanic Gardens,College Park,Park,VeryLikelyOpen
+500,4d89ef067139b1f72342bfd4,51,105,W5,2 Queen's Quay,Museum,VeryLikelyOpen
+501,4cb46b5adb32f04d5671dd4d,51,656,Titanic Belfast,2 Queen's Quay,Museum,VeryLikelyOpen
+502,4ee64eb89a52c1dadc051b32,51,623,The Great Room,16 Skipper St,Restaurant,VeryLikelyOpen
+503,514a517de4b0e876ff898ce4,51,593,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+504,5a1fedbcbcbf7a12b589f1f9,51,664,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+505,4f6090eee4b07ca95a464133,51,373,The Dock Cafe,2K Queens Rd,Coffee Shop,VeryLikelyOpen
+506,52988e8511d22448bd236206,51,633,The Dirty Onion,3 Hill St,Bar,Unsure
+507,4b071106f964a52093f622e3,51,682,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+508,4b588286f964a5204b5b28e3,51,118,Odyssey Arena,2 Queens Quay,Stadium,VeryLikelyOpen
+509,520080a3498eb97026f147b8,51,659,Established Coffee,54 Hill St,Coffee Shop,Unsure
+510,4bacb913f964a520e8063be3,52,210,Nando's,24 Ormeau Ave,Restaurant,VeryLikelyOpen
+511,4fc21ef5e4b099ce175faf24,52,420,Home Restaurant,22 Wellington Pl,Restaurant,Unsure
+512,4bdabe62c79cc928a48b7fe9,52,190,PizzaExpress,25-27 Bedford St,Restaurant,VeryLikelyOpen
+513,4b50a28ff964a520762a27e3,52,147,Fibber Magees,38-42 Great Victoria St,Bar,VeryLikelyOpen
+514,4b6031acf964a52060d929e3,52,221,Harlem Cafe,34 Bedford St,Coffee Shop,LikelyOpen
+515,4c489364c047be9aef423479,52,395,Zen,55-59 Adelaide St,Restaurant,LikelyOpen
+516,4c50130638b0be9a515ee3fc,52,362,Long's,39 Athol St,Restaurant,LikelyOpen
+517,4b459b93f964a5207d0e26e3,52,25,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+518,57ac99ec498e2258ef0521d3,52,211,Boojum,14-16 Great Victoria St,Restaurant,Unsure
+519,4c4647bd342c1b8d3040b689,52,130,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+520,53f7ab75498eaf3f62ad2545,53,112,Cafe Remedy,Missing data,Bar,VeryLikelyOpen
+521,5e00aa6c475c41f46fb5a10c,53,391,Oldpark Road Library,46 Oldpark Rd,Library,LikelyOpen
+522,52063981498e39682491892b,53,310,The Crum Coffee Shop,Missing data,Coffee Shop,VeryLikelyOpen
+523,4c1a4b9063750f476b07b367,53,396,Mersin Kebab House,Missing data,Restaurant,VeryLikelyOpen
+524,4c7653e1d8948cfa5f046ada,53,948,KFC,2-16 Shankhill Rd,Restaurant,VeryLikelyOpen
+525,4ed15014775bbb5f33fef475,53,128,Odyssey Lounge,Missing data,Bar,VeryLikelyOpen
+526,5c50a4e3a9e40200398c2d66,53,309,Milano's,Missing data,Restaurant,VeryLikelyOpen
+527,4fe04e53e4b0e2a009c399d5,53,399,Fairview,Missing data,Hospital,VeryLikelyOpen
+528,50b0e62be4b0441cd92ec4f3,53,289,Crumlin Road Gaol,53-55 Crumlin Rd,Museum,VeryLikelyOpen
+529,59b559325a2c9107743ceba7,53,283,Cuffs Bar and Grill,53-55 Crumlin Rd,Restaurant,VeryLikelyOpen
+530,4bb3c394715eef3b6bce86bb,54,690,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+531,4b65d319f964a5203a022be3,54,824,The Limelight,17 Ormeau Ave,Bar,LikelyOpen
+532,514a517de4b0e876ff898ce4,54,551,Ox,1 Oxford St,Restaurant,VeryLikelyOpen
+533,54917d6b498e225b49364d84,54,716,YO! Belfast,1 Victoria Square,Restaurant,VeryLikelyOpen
+534,59f0cd65b9ac383a99665508,54,683,Babel,70-74 Ann St,Bar,VeryLikelyOpen
+535,4bd352d741b9ef3b0fe3ffe5,54,937,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+536,5a37b9bd16fa04126cd4ccd7,54,735,Oh Donuts & Coffee,55 Upper Arthur St,Restaurant,VeryLikelyOpen
+537,4b071106f964a52093f622e3,54,793,Muriel's Cafe Bar,12-14 Church Lane,Bar,LikelyOpen
+538,5a1fedbcbcbf7a12b589f1f9,54,935,Bunsen,6-8 Hill St,Restaurant,LikelyOpen
+539,52988e8511d22448bd236206,54,939,The Dirty Onion,3 Hill St,Bar,Unsure
+540,4fc21ef5e4b099ce175faf24,55,131,Home Restaurant,22 Wellington Pl,Restaurant,Unsure
+541,4bb3c394715eef3b6bce86bb,55,530,The Garrick Bar,29 Chichester St,Bar,LikelyOpen
+542,4b50a28ff964a520762a27e3,55,269,Fibber Magees,38-42 Great Victoria St,Bar,VeryLikelyOpen
+543,4c4647bd342c1b8d3040b689,55,280,The Crown Liquor Saloon,46 Great Victoria St,Restaurant,Unsure
+544,4bd352d741b9ef3b0fe3ffe5,55,518,Whites Tavern,2-4 Winecellar Entry,Restaurant,Unsure
+545,5ae825e4ad910e002c72a002,55,186,Tim Hortons,65 Fountain St,Coffee Shop,VeryLikelyOpen
+546,57ac99ec498e2258ef0521d3,55,197,Boojum,14-16 Great Victoria St,Restaurant,Unsure
+547,4c50130638b0be9a515ee3fc,55,198,Long's,39 Athol St,Restaurant,LikelyOpen
+548,4b64a08bf964a52082c32ae3,55,324,Kelly's Cellars,30-32 Bank St,Restaurant,Unsure
+549,4b459b93f964a5207d0e26e3,55,419,Ginger Bistro,7-8 Hope St,Restaurant,Unsure
+550,4ee3be780e61681b95950144,56,341,The Raj,Missing data,Restaurant,VeryLikelyOpen
+551,4bf1b88b78cec92871bcba86,56,805,Windsor Park,Donegall Rd,Stadium,VeryLikelyOpen
+552,56b604ba498e05a41db12725,56,815,Nando's,"Boucher Retail Park, Boucher Cres",Restaurant,VeryLikelyOpen
+553,4bb7213e1344b713f7619e04,56,67,Clements,342 Lisburn Rd,Coffee Shop,LikelyOpen
+554,4bae2ddaf964a5205b8e3be3,56,349,Doorsteps,455 Lisburn Rd,Coffee Shop,VeryLikelyOpen
+555,4b4a40c5f964a520dc8026e3,56,42,Cafe Fish,539 Lisburn Rd,Restaurant,VeryLikelyOpen
+556,4baa69e6f964a520d6673ae3,56,775,Shu,253 Lisburn Rd,Restaurant,VeryLikelyOpen
+557,515db9e5e4b0261bbfdbef53,56,55,Deane and Decano,537 Lisburn Rd,Restaurant,LikelyOpen
+558,5c1509f325ecca002cf179ef,56,808,Five Guys,"32a, Boucher Crescent",Restaurant,LikelyOpen
+559,589ef43203e29a66d92c10f1,56,801,Eddie Rocket's,Boucher Crescent,Restaurant,VeryLikelyOpen
+560,4d7f4904e7e1721e4ceaee0b,57,920,Tropical Ravine,Botanic Gardens,Botanical Garden,VeryLikelyOpen
+561,4ba10674f964a5202f9037e3,57,724,Jenz Coffee Company,207 Lisburn Rd,Coffee Shop,LikelyOpen
+562,4b4a40c5f964a520dc8026e3,57,801,Cafe Fish,539 Lisburn Rd,Restaurant,VeryLikelyOpen
+563,4bdc120e3904a59330c34c9e,57,605,Yum Bar and Restaurant,157 Stranmillis Rd,Restaurant,LikelyOpen
+564,4bf590c8bfeac92801ba9236,57,862,The Jharna,133 Lisburn Rd,Restaurant,VeryLikelyOpen
+565,51fc0981498e14d7ea479549,57,835,Maggie Mays,2 Malone Rd,Coffee Shop,VeryLikelyOpen
+566,4bf0422df831c92849cd01f2,57,845,Ulster Museum,Botanic Gardens,Museum,VeryLikelyOpen
+567,4b7d734ff964a52022bf2fe3,57,928,Botanic Gardens,College Park,Park,VeryLikelyOpen
+568,4bf2561a3fa220a1f83c1920,57,1022,Clements Cafe,University Rd,Coffee Shop,LikelyOpen
+569,4bb7213e1344b713f7619e04,57,785,Clements,342 Lisburn Rd,Coffee Shop,LikelyOpen
